@@ -3,3 +3,6 @@ Name=Logitech G502 X PLUS Wireless
 DeviceMatch=usb:046d:c095;usb:046d:c547
 DeviceType=mouse
 Driver=hidpp20
+
+[Driver/hidpp20]
+DeviceIndex=1
